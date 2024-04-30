@@ -4,10 +4,10 @@ const fs = require("fs");
 const { emitirEvento } = require("../helpers/utils");
 
 const database = mysql.createConnection({
-  host: "localhost",
-  user: "root",
-   password: "",
-  database: "GruappDta",
+  host: "b4cyzmh6o0pw0bsvhmvw-mysql.services.clever-cloud.com",
+  user: "ukjnf0y43xpvh2ls",
+   password: "lBdMIplFWubAu2AoGpA7",
+  database: "b4cyzmh6o0pw0bsvhmvw",
 //   host: "durvbryvdw2sjcm5.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
 //   user: "hzv695taujyg3g9l",
 //   password: "qv6zew0dly3wztuk",
